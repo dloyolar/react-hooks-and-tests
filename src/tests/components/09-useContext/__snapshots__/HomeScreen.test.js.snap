@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <HomeScreen /> should be display correctly 1`] = `
+<div>
+  <h1>
+    Home Screen
+  </h1>
+  <hr />
+  <pre>
+    {
+   "name": "Diego",
+   "email": "dieegolr@gmail.com"
+}
+  </pre>
+</div>
+`;
